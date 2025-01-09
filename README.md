@@ -2,14 +2,14 @@
 
 Here are some of my links that may be useful.
 
-Deciphering email:
+**Deciphering email:**
  
 | URL         | Description     |
 |--------------|-----------|
 | https://mha.azurewebsites.net/pages/mha.html      | Message Header decipher  |
 | https://mxtoolbox.com/EmailHeaders.aspx | Header analyzer |  
 
-Reputation checking:
+**Reputation checking:**
 
 | URL         | Description     |
 |--------------|-----------|
@@ -22,22 +22,22 @@ Reputation checking:
 | https://checkphish.ai | URL Sandbox **(limited uses per day)** |
 | https://www.abuseipdb.com | IP address blacklist check |
 | https://whatismyipaddress.com/ | IP address location/service check |
-| https://chromewebstore.google.com/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab | SOC multitool for Chrome |
 
-Malware/Scam detonation and safe ways to view and unfurl links:
+**Malware/Scam detonation and safe ways to view and unfurl links:**
 
 | URL         | Description     |
 |--------------|-----------|
 | https://www.joesandbox.com/ | URL Sandbox **(limited uses per day)** |
 | https://urlscan.io | URL Sandbox |
-| https://www.hybrid-analysis.com/ | URL/File Sandbox **(new)** |
+| https://www.hybrid-analysis.com/ | URL/File Sandbox |
 | https://www.browserling.com/browser-sandbox | URL detonation sandbox  |
-| https://www.site-shot.com | Capture a snapshot of website **(popular tool)** |
+| https://www.site-shot.com | Capture a snapshot of website |
+| https://microlink.io/screenshot | Capture a snapshot of website |
 | https://unshorten.me/ | Shortlink expander |
-| https://urlexpander.org/ | Another Shortlink expander |
+| https://urlexpander.org/ | Shortlink expander |
 | https://www.websiteplanet.com/webtools/redirected/ | Redirect tracker (see where that suspicious link really goes!) |
 
-Domain Name investigation:
+**Domain Name investigation:**
 
 | URL         | Description     |
 |--------------|-----------|
@@ -45,22 +45,32 @@ Domain Name investigation:
 | https://mxtoolbox.com/DnsLookup.aspx | Info on DNS Domain |
 | https://www.whoxy.com |  Historical records on who owns a DNS Domain  |
 
-Code deobsfuscation:
+**Code deobsfuscation/translation:**
 
 | URL         | Description     |
 |--------------|-----------|
 | https://www.base64decode.org | Decode Base64 |
 | https://base64.guru/converter/decode/file | Decode Base64 to file |
 | https://www.codetwo.com/freeware/qr-code-desktop-reader/ | Desktop QR code reader |
+| https://www.ascii-code.com/ | A list of ASCII codes and their descriptions |
 
-Other sites with really good tools:
+**Threat intel for tool tuning:**
+
+| URL         | Description     |
+|--------------|-----------|
+| https://www.cybercrimeinfocenter.org/records-repository | Phishing, Malware and Spam activity reports |
+| https://dnsrf.org/research/safest-tld-league-/safest-tlds---all-tables/all-tld-providers/index.html | Top level domains and their report rate |
+
+
+**Other sites with really good tools:**
 
 | URL         | Description     |
 |--------------|-----------|
 | https://zeltser.com/lookup-malicious-websites | Lenny Zeltzers list of tools | 
+| https://chromewebstore.google.com/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab | SOC multitool for Chrome |
+| https://www.codetwo.com/freeware/qr-code-desktop-reader/?sts=1375 | QR code reader for Windows |
 
-
-Abuse reporting:
+**Abuse reporting:**
 
 | URL         | Description     |
 |--------------|-----------|
