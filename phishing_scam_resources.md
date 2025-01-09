@@ -81,7 +81,14 @@ Here are some of my links that may be useful.
 
 | URL         | Description     |
 |--------------|-----------|
-| https://www.dropbox.com/report_abuse | Report abuse - Dropbox |
+| https://www.dropbox.com/report_abuse | Report abuse - Dropbox / Hellosign (report content) |
+| https://www.docusign.com/blog/how-docusign-users-can-spot-avoid-and-report-fraud | Docusign | 
 | https://support.google.com/mail/contact/abuse | Report abuse - Gmail |
 | https://help.instagram.com/contact/230197320740525 | Report abuse - Instagram | 
 | https://www.whatsapp.com/legal/ip-policy/?lang=en  | Report abuse - Whatsapp | 
+| https://msrc.microsoft.com/report/ | Microsoft |
+| https://aws.amazon.com/forms/report-abuse | Amazon/AWS |
+| Send phishing emails to phishing@paypal.com | Paypal |
+
+
+
