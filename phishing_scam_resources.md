@@ -2,18 +2,18 @@
 
 Here are some of my links that may be useful.
 
-**Deciphering email:**
+**Deciphering email headers:**
  
 | URL         | Description     |
 |--------------|-----------|
 | https://mha.azurewebsites.net/pages/mha.html      | Message Header decipher  |
 | https://mxtoolbox.com/EmailHeaders.aspx | Header analyzer |  
 
-**Reputation checking:**
+**Reputation checking of IP Address, URLs and files:**
 
 | URL         | Description     |
 |--------------|-----------|
-| https://www.virustotal.com/gui/home/url | VirusTotal (reputation checker) **(popular tool)** |
+| https://www.virustotal.com/gui/home/url | VirusTotal (reputation checker) |
 | https://www.emailveritas.com/url-checker | Website reputation checker |
 | https://www.islegitsite.com/ | Website reputation checker | 
 | https://talosintelligence.com/reputation_center/ | Website reputation checker - Cisco Talos |
@@ -27,9 +27,9 @@ Here are some of my links that may be useful.
 
 | URL         | Description     |
 |--------------|-----------|
+| https://www.hybrid-analysis.com/ | URL/File Sandbox |
 | https://www.joesandbox.com/ | URL Sandbox **(limited uses per day)** |
 | https://urlscan.io | URL Sandbox |
-| https://www.hybrid-analysis.com/ | URL/File Sandbox |
 
 **Information extraction:**  
 
