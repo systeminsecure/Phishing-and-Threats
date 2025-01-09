@@ -42,6 +42,7 @@ Here are some of my links that may be useful.
 | https://urlexpander.org/ | Shortlink expander |
 | https://www.websiteplanet.com/webtools/redirected/ | Redirect tracker (see where that suspicious link really goes!) |
 | https://urlextractor.net/ | Extract URLs from websites |
+| https://npnr.org/ | Reverse phone lookup |
 
 **Domain Name investigation:**
 
