@@ -30,12 +30,18 @@ Here are some of my links that may be useful.
 | https://www.joesandbox.com/ | URL Sandbox **(limited uses per day)** |
 | https://urlscan.io | URL Sandbox |
 | https://www.hybrid-analysis.com/ | URL/File Sandbox |
+
+**Information extraction:**  
+
+| URL         | Description     |
+|--------------|-----------|
 | https://www.browserling.com/browser-sandbox | URL detonation sandbox  |
 | https://www.site-shot.com | Capture a snapshot of website |
 | https://microlink.io/screenshot | Capture a snapshot of website |
 | https://unshorten.me/ | Shortlink expander |
 | https://urlexpander.org/ | Shortlink expander |
 | https://www.websiteplanet.com/webtools/redirected/ | Redirect tracker (see where that suspicious link really goes!) |
+| https://urlextractor.net/ | Extract URLs from websites |
 
 **Domain Name investigation:**
 
