@@ -1,0 +1,9 @@
+let tldlist = externaldata(tld: string) [@"https://raw.githubusercontent.com/systeminsecure/Phishing-and-Threats/refs/heads/main/high_spam_reported_tlds.csv"] with (format="txt");  
+let Timeframe = 1d; // Choose the best timeframe for your investigation
+EmailEvents
+    | where Timestamp > ago(Timeframe)
+    | where EmailDirection == "Inbound"
+    | extend EmailDomain = tostring(split(SenderFromAddress, '@')[1])
+    | extend EmailTLD = tostring(split(EmailDomain, '.')[-1])
+    | where EmailTLD in (tldlist)
+| project-reorder Timestamp,EmailDomain,EmailTLD,DeliveryAction,ThreatTypes
